@@ -1,0 +1,9 @@
+{
+    "RESCALED_IMAGE_HEIGHT": 2,
+    "RESCALED_IMAGE_WIDTH": 2,
+    "DESIRE_CLASSES": [
+        0,
+        3,
+        6
+    ]
+}
